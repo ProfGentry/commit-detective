@@ -23,3 +23,11 @@ git commit -m "Add clear message here"
 ```
 
 Saves a snapshot of the staged changes.
+
+## Check Git Information
+
+```bash
+git stats
+```
+
+Shows the current repository status.
