@@ -25,3 +25,12 @@ If an application will not open:
 1. Restart the computer.
 2. Check for updates.
 3. Reinstall the application if necessary.
+
+## Network Issues
+
+If the internet is not working:
+
+1. Check the network cable or Wi-Fi connection.
+2. Restart the device.
+3. Confirm the device has an IP address.
+4. Contact support if the issue continues.
