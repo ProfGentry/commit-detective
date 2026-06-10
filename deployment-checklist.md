@@ -4,3 +4,4 @@
 - Verify inventory
 - Confirm contacts
 - Perform deployment
+- Verify backups
